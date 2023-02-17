@@ -1,4 +1,4 @@
-package com.zcl.dto;
+package com.zcl.calculator_app.dto;
 
 import lombok.Data;
 
